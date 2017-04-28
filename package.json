@@ -1,0 +1,17 @@
+{
+  "name": "link-checker",
+  "version": "0.0.0",
+  "description": "a quick tool to check links",
+  "author": "Mike Wyatt II <mike@mikewyattdesign.com>",
+  "contributors": [
+    {
+      "name": "Christopher Schmitz",
+      "email": "schmitz.chris@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "json2csv": "^3.7.3"
+  }
+}
